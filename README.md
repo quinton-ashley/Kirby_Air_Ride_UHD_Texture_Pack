@@ -17,4 +17,13 @@ This pack focuses on the City Trial mode of Kirby Air Ride.  I do not have any i
 
 Use the widescreen codes found on the [wiki](https://wiki.dolphin-emu.org/index.php?title=Kirby_Air_Ride).
 
-### Enjoy!
+### Donate!
+
+Bitcoin:
+172RBB7K6kk4rubjsH46zui3VspgxDnyFo
+
+Patreon:
+[https://www.patreon.com/qashto](https://www.patreon.com/qashto)
+
+Paypal:
+[https://www.paypal.me/qashto/5](https://www.paypal.me/qashto/5)
