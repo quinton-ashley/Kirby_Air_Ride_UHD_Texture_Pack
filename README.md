@@ -24,6 +24,3 @@ Patreon:
 
 Paypal:
 [https://www.paypal.me/qashto/5](https://www.paypal.me/qashto/5)
-
-Ethereum:
-0xb4355179da353f1BA4AA0BB5a7E3Ba4FdC7128ea
