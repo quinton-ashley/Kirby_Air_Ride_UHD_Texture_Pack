@@ -1,5 +1,5 @@
 # Kirby_Air_Ride_UHD_Texture_Pack
-[DOWNLOAD LINK](https://drive.google.com/open?id=1wZgDAMmJIt71PZsPzKnBFJ28rpnka3GE)  
+[DOWNLOAD LINK](https://oko.sh/GKYDDS)  
 ![](https://raw.githubusercontent.com/quinton-ashley/Kirby_Air_Ride_UHD_Texture_Pack/master/Poster.png)
 This pack contains retextures averaging 8x original size for the entire city area of City Trial mode.  Most of the pack is a repackaged combination of excellent contributions from members of the Dolphin Forum community.  Go to the [wiki](https://github.com/quinton-ashley/Kirby_Air_Ride_UHD_Texture_Pack/wiki/Screenshots) to see screenshots!
 
